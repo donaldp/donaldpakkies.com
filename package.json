@@ -27,5 +27,8 @@
     "vue-router": "^2.7.0",
     "webpack-dev-server": "^3.1.10"
   },
-  "dependencies": {}
+  "dependencies": {
+    "axios-progress-bar": "^1.2.0",
+    "vue-nprogress": "^0.1.5"
+  }
 }
