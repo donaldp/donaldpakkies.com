@@ -1,24 +1,20 @@
 require('./bootstrap');
 
-import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+// Dependencies
+import VueRouter from 'vue-router';
+import routes from './routes.js';
 
-import Example from './components/example';
+// Components
+Vue.component('example-component', require('./components/example.vue'));
 
+Vue.use(VueRouter);
 
-class App extends Component {
-  render() {
-    return (
-      <BrowserRouter>
-        <div>
-          <Switch>
-            <Route path='/' component={Example} exact></Route>
-          </Switch>
-        </div>
-      </BrowserRouter>
-    )
-  }
-}
+const router = new VueRouter({
+  mode: 'history',
+  routes: routes
+});
 
-ReactDOM.render(<App />, document.getElementById('app'));
+const app = new Vue({
+  router,
+  el: '#app'
+});

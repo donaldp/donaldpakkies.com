@@ -1,5 +1,6 @@
 window._ = require("lodash");
 window.moment = require("moment");
+window.Vue = require("vue");
 
 /**
  * We'll load jQuery and the Bootstrap jQuery plugin which provides support
