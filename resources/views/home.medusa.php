@@ -2,30 +2,31 @@
 
 {% section('title') %}
 
-  Home
+  Donald Pakkies
 
 {% endsection %}
 
 {% section('main') %}
 
-  <div class="flex--center position--ref full--height">
-    <div class="top-right links">
-      <a href="{{ url('/logout', true) }}">Logout</a>
-    </div>
+  <div class="columns-block">
+    <div class="left-col-block blocks">
+      <header class="header">
+        <div class="content text-center">
+          <h1>Hi, I'm Donald Pakkies!</h1>
 
-    <div class="__content __home_box">
-      <div class="row justify-content-center">
-        <div class="col-md-8">
-          <div class="card __shadow">
-            <div class="card-header __clean-header">Hi, {{ auth()->user()->name }}</div>
-
-            <div class="card-body">
-              You are logged in!
-            </div>
-          </div>
+          <p class="lead">Software Engineer</p>
+          <ul class="social-icon">
+            <li><a href="{{ config('social.twitter') }}"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="{{ config('social.linkedin') }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+            <li><a href="{{ config('social.github') }}"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          </ul>
         </div>
-      </div>
+        <div class="profile-img"></div>
+      </header>
+      <!-- .header-->
     </div>
+
+    <home-view></home-view>
   </div>
 
 {% endsection %}
