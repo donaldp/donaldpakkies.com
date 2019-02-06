@@ -14,7 +14,6 @@ class RouterResolver extends Service
    */
   protected function boot($app) : void
   {
-    $this->apiRoutes($app);
     $this->webRoutes($app);
   }
 
@@ -28,20 +27,6 @@ class RouterResolver extends Service
   {
     $app->route->make(base_path('routes/web.php'))
         ->middleware('web')
-        ->register();
-  }
-
-  /**
-   * Load apiRoutes
-   *
-   * @param object $app
-   * @return void
-   */
-  protected function apiRoutes($app) : void
-  {
-    $app->route->make(base_path('routes/api.php'))
-        ->middleware('api')
-        ->prefix('api')
         ->register();
   }
 }
