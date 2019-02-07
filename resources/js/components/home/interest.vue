@@ -18,6 +18,18 @@
 
               <p>Game of Thrones, Dexter, The Walking Dead, Limitless, Shameless, Brooklyn Nine-Nine.</p>
             </div>
+
+            <div class="content-item">
+              <h3>Games</h3>
+
+              <p>FIFA.</p>
+            </div>
+
+            <div class="content-item">
+              <h3>Music</h3>
+
+              <p>Drake, Phora, A-Reece, Travis Scott, Logic, La Paris, Mura Masa, Russ.</p>
+            </div>
           </div>
         </div>
         <!-- .row -->
