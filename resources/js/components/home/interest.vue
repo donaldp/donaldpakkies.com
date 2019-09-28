@@ -16,19 +16,19 @@
             <div class="content-item">
               <h3>Shows/Series</h3>
 
-              <p>Game of Thrones, Dexter, The Walking Dead, Limitless, Shameless, Brooklyn Nine-Nine.</p>
+              <p>Lucifer, Grimm, Game of Thrones, Dexter, The Walking Dead, Limitless, Shameless, Brooklyn Nine-Nine.</p>
             </div>
 
             <div class="content-item">
               <h3>Games</h3>
 
-              <p>FIFA.</p>
+              <p>FIFA, Grand Theft Auto, Forza, Assassin's Creed, Far Cry.</p>
             </div>
 
             <div class="content-item">
               <h3>Music</h3>
 
-              <p>Drake, Phora, A-Reece, Travis Scott, Logic, La Paris, Mura Masa, Russ.</p>
+              <p>Queen, Guns N' Roses, NAV, AC/DC, Drake, Phora, A-Reece, Travis Scott, Logic, Majid Jordan La Paris, Mura Masa, Russ, Monxx, The Weeknd.</p>
             </div>
           </div>
         </div>

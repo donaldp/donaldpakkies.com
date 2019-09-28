@@ -10,7 +10,7 @@
           </div>
           <div class="col-md-12">
             <p>
-              Just a random 21 year old who is trying to build cool sh*t. I'm a very innovative Software
+              Just a random 22 year old who is trying to build cool sh*t. I'm a very innovative Software
               Engineer who spent his entire childhood writing code. I like coming up with new things (like building
               a new Programming Language or creating a Web Framework) and learning new stacks.
 

@@ -17,7 +17,7 @@
               <h3>Xylon Studio</h3>
               <h4>IDE for C% Windows Applications and JavaScript based Windows Applications.</h4>
 
-              <p><a href="http://www.xylonstudio.com">xylonstudio.com</a></p>
+              <p><a href="http://www.xylonstudio.com">xylonstudio.com</a> <small>(down)</small> </p>
             </div>
             <!-- .experience-item -->
             <div class="content-item">
@@ -25,7 +25,7 @@
               <h3>C Modulus</h3>
               <h4>A Programming Language for Software and Web Development.</h4>
 
-              <p><a href="http://cmodulus.xylonstudio.com">cmodulus.xylonstudio.com</a></p>
+              <p><a href="http://cmodulus.xylonstudio.com">cmodulus.xylonstudio.com</a> <small>(down)</small> </p>
             </div>
             <!-- .experience-item -->
             <div class="content-item">
@@ -34,14 +34,6 @@
               <h4>A cool API framework for PHP.</h4>
 
               <p><a href="https://modulusphp.com">modulusphp.com</a></p>
-            </div>
-            <!-- .experience-item -->
-            <div class="content-item">
-              <small>2018 - Present</small>
-              <h3>Delivr</h3>
-              <h4>Email delivery service for Developers</h4>
-
-              <p><a href="https://delivr.modulusphp.com">delivr.modulusphp.com</a></p>
             </div>
             <!-- .experience-item -->
           </div>
