@@ -28,7 +28,7 @@
             <div class="content-item">
               <h3>Music</h3>
 
-              <p>Queen, Guns N' Roses, NAV, AC/DC, Drake, Phora, A-Reece, Travis Scott, Logic, Majid Jordan La Paris, Mura Masa, Russ, Monxx, The Weeknd.</p>
+              <p>Queen, Guns N' Roses, NAV, AC/DC, Drake, Phora, A-Reece, Travis Scott, Logic, Majid Jordan, La Paris, Mura Masa, Russ, Monxx, The Weeknd.</p>
             </div>
           </div>
         </div>
