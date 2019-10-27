@@ -10,15 +10,13 @@
           </div>
           <div class="col-md-12">
             <p>
-              Just a random 22 year old who is trying to build cool sh*t. I'm a very innovative Software
+              Just a random "self-taught" Full-Stack Demi God. I'm a very innovative and passionate Software
               Engineer who spent his entire childhood writing code. I like coming up with new things (like building
               a new Programming Language or creating a Web Framework) and learning new stacks.
-
             </p>
 
             <p>
-              I'm a Open Source contributor and an advocate for good quality Software. If i tell you "i don't like
-              your code", It's probably because i think you can improve :).
+              I'm a Open Source contributor and an advocate for good quality Software 😊.
             </p>
           </div>
         </div>
