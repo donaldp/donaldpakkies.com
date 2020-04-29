@@ -16,7 +16,7 @@
             <div class="content-item">
               <h3>Shows/Series</h3>
 
-              <p>Lucifer, Grimm, Game of Thrones, Dexter, The Walking Dead, Limitless, Shameless, Brooklyn Nine-Nine.</p>
+              <p>Ozark, Lucifer, Grimm, Game of Thrones, Dexter, The Walking Dead, Limitless, Shameless, Brooklyn Nine-Nine.</p>
             </div>
 
             <div class="content-item">
