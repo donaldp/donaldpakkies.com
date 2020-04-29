@@ -12,7 +12,7 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="copytext">
-                  &copy; 2019 Donald Pakkies. All rights reserved | Powered By: <a href="https://modulusphp.com">Modulus</a>. Design By: <a href="https://themehippo.com">ThemeHippo</a>
+                  &copy; 2020 Donald Pakkies. All rights reserved | Powered By: <a href="https://modulusphp.com">Modulus</a>. Design By: <a href="https://themehippo.com">ThemeHippo</a>
                 </div>
               </div>
             </div>
