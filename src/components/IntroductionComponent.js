@@ -18,7 +18,7 @@ const IntroductionComponent = (props) => {
             </p>
 
             <p>
-              <i> ~ An active user of Open Source.</i>
+              <i> ~ An active user of OSS.</i>
             </p>
           </div>
         </div>
