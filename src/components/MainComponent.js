@@ -10,9 +10,9 @@ const MainComponent = (props) => {
             <h1>Hi, I'm Donald Pakkies!</h1>
             <p className="lead">Freelance Software Developer & Casual Gamer</p>
             <ul className="social-icon">
-              <li><a href={social.twitter}><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href={social.linkedin}><i className="fa fa-linkedin" aria-hidden="true"></i></a></li>
-              <li><a href={social.github}><i className="fa fa-github" aria-hidden="true"></i></a></li>
+              <li><a href={social.twitter}><i className="fa fa-twitter"></i></a></li>
+              <li><a href={social.linkedin}><i className="fa fa-linkedin"></i></a></li>
+              <li><a href={social.github}><i className="fa fa-github"></i></a></li>
             </ul>
           </div>
           <div className="profile-img"></div>
@@ -28,7 +28,7 @@ const MainComponent = (props) => {
               <div className="row">
                 <div className="col-md-12">
                   <div className="copytext">
-                    &copy; { (new Date).getFullYear() } Donald Pakkies. All rights reserved | <a href="https://github.com/donaldp/donaldpakkies.com">Source Code</a> | Design By: <a href="https://themehippo.com">ThemeHippo</a>
+                    &copy; { (new Date()).getFullYear() } Donald Pakkies. All rights reserved | <a href="https://github.com/donaldp/donaldpakkies.com">Source Code</a> | Design By: <a href="https://themehippo.com">ThemeHippo</a>
                   </div>
                 </div>
               </div>
@@ -38,6 +38,6 @@ const MainComponent = (props) => {
       </div>
     </div>
   )
-}
+};
 
 export default MainComponent;

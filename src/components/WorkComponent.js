@@ -1,6 +1,6 @@
 import React from 'react';
 
-const WorkComponent = () => {
+const WorkComponent = (props) => {
   return (
     <section className="section-wrapper section-interest gray-bg">
       <div className="container-fluid">
@@ -29,7 +29,7 @@ const WorkComponent = () => {
         <div className="row">
           <div className="col-md-12">
             <div className="expertise-item">
-              <h3><a href="">Freelancing</a></h3>
+              <h3><a href="https://donaldpakkies.com">Freelancing</a></h3>
               <h4>Full Stack Developer</h4>
 
               <small>Jan 2020 - current</small>
