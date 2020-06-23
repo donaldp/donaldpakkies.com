@@ -17,7 +17,7 @@ const InterestsComponent = (props) => {
             <div className="content-item">
               <h3>Shows/Series</h3>
 
-              <p>Ozark, Lucifer, Grimm, Game of Thrones, Dexter, The Walking Dead, Limitless, Shameless, Brooklyn Nine-Nine, Mr Iglesias, StarGirl, Space Force.</p>
+              <p>Ozark, Lucifer, Grimm, Game of Thrones, Dexter, The Walking Dead, Limitless, Shameless, Brooklyn Nine-Nine, Mr Iglesias, StarGirl, Space Force, Gotham, The Order.</p>
             </div>
 
             <div className="content-item">
