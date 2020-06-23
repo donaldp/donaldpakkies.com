@@ -10,5 +10,5 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    server = 'Ubuntu'
+    Server = 'Ubuntu'
     X-Powered-By = 'Ubuntu'
