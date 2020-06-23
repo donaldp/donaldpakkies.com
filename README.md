@@ -1,6 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/donaldp/donaldpakkies.com/dev/public/code.ico" width="100" />
-</div>
 <h1 align="center">
   donaldpakkies.com
 </h1>
