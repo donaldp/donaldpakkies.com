@@ -5,6 +5,7 @@ import MainComponent from './components/MainComponent.js';
 import InterestsComponent from './components/InterestsComponent.js';
 import IntroductionComponent from './components/IntroductionComponent.js';
 import WorkComponent from './components/WorkComponent.js';
+import TechStackComponent from './components/TechStackComponent';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <MainComponent>
         <IntroductionComponent />
         <WorkComponent />
+        <TechStackComponent />
         <InterestsComponent />
       </MainComponent>
     </Fragment>
