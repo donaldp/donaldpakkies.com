@@ -34,7 +34,7 @@ window.addEventListener('load', function () {
 
   setTimeout(() => {
     document.getElementById('preloader').style.display = 'none';
-  }, 2000);
+  }, 3000);
 });
 
 export default App;
