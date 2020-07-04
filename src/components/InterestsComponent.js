@@ -31,6 +31,12 @@ const InterestsComponent = (props) => {
 
               <p>Queen, Guns N' Roses, NAV, AC/DC, Drake, Phora, A-Reece, Travis Scott, Logic, Majid Jordan, La Paris, Mura Masa, Russ, Monxx, The Weeknd.</p>
             </div>
+
+            <div className="content-item">
+              <h3>Operating Systems / Distributions</h3>
+
+              <p>elementary OS (Desktop), Ubuntu (Server), Alpine Linux (Server), Amazon Linux (Server), Fedora (Server).</p>
+            </div>
           </div>
         </div>
 
