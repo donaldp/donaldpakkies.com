@@ -23,7 +23,7 @@ const InterestsComponent = (props) => {
             <div className="content-item">
               <h3>Games</h3>
 
-              <p>Fortnite, FIFA, Grand Theft Auto, Red Dead Redemption, Forza, Assassin's Creed, Far Cry.</p>
+              <p>Fortnite, FIFA, Grand Theft Auto, Red Dead Redemption, Forza, Assassin's Creed, Far Cry, Call of Duty: Modern Warfare.</p>
             </div>
 
             <div className="content-item">
