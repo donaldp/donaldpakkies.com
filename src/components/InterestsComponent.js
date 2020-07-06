@@ -33,7 +33,7 @@ const InterestsComponent = (props) => {
             </div>
 
             <div className="content-item">
-              <h3>Operating Systems / Distributions</h3>
+              <h3>Distributions</h3>
 
               <p>elementary OS (Desktop), Ubuntu (Server), Alpine Linux (Server), Amazon Linux (Server), Fedora (Server).</p>
             </div>
