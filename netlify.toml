@@ -3,6 +3,11 @@
   publish = "build"
 
 [[redirects]]
+  from = "/tv"
+  to = "https://twitch.tv/donaldpakkies"
+  status = 200 
+
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
