@@ -13,6 +13,10 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+if (window?.location?.pathname?.toLowerCase() === 'tv') {
+  window.location.location = 'https://twitch.tv/donaldpakkies';
+}
+
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
