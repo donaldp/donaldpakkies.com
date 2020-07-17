@@ -37,6 +37,12 @@ const InterestsComponent = (props) => {
 
               <p>elementary OS (Desktop), Ubuntu (Server), Alpine Linux (Server), Amazon Linux (Server), Fedora (Server).</p>
             </div>
+
+            <div className="content-item">
+              <h3>Random</h3>
+
+              <p>Astrophysics, Comics, Production, Reading.</p>
+            </div>
           </div>
         </div>
 
