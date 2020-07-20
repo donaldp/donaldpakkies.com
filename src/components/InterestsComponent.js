@@ -41,7 +41,7 @@ const InterestsComponent = (props) => {
             <div className="content-item">
               <h3>Random</h3>
 
-              <p>Astrophysics, Comics, Production, Reading.</p>
+              <p>Astrophysics and Cosmology, Comics, Production, Reading.</p>
             </div>
           </div>
         </div>
