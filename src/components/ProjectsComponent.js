@@ -15,7 +15,7 @@ const ProjectsComponent = (props) => {
         <div className="row">
           <div className="col-md-12">
             <div className="expertise-item">
-              <h3><a href="http://github.com/harnessflex">Harness</a></h3>
+              <h3><a href="https://harness.obsidiandev.io">Harness</a></h3>
               <h4>MVC Framework for Imba Lang</h4>
 
               <p>Supports Auth, Laravel Mix, Vuejs, Liquidjs, Localization, DB Migrations, and more</p>
@@ -24,7 +24,7 @@ const ProjectsComponent = (props) => {
             </div>
 
             <div className="expertise-item">
-              <h3><a href="http://github.com/harnessflex/schema-builder">SQL Schema Builder</a></h3>
+              <h3><a href="https://github.com/harnessflex/schema-builder">SQL Schema Builder</a></h3>
               <h4>SQL Schema Builder</h4>
 
               <p>Provides a cleaner syntax for db-migrate (inspired by Laravel Eloquent)</p>
@@ -33,7 +33,7 @@ const ProjectsComponent = (props) => {
             </div>
 
             <div className="expertise-item">
-              <h3><a href="http://github.com/modulusphp">Modulus</a></h3>
+              <h3><a href="https://github.com/modulusphp">Modulus</a></h3>
               <h4>MVC Framework for PHP</h4>
 
               <p>Supports Auth, Laravel Mix, Vuejs / Reactjs, Queue workers, AWS integration, DB Migrations, and more</p>
