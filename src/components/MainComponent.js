@@ -11,10 +11,8 @@ const MainComponent = (props) => {
             <p className="lead">Freelance Software Developer & Casual Gamer</p>
             <ul className="social-icon">
               <li title="Twitter"><a href={social.twitter}><i className="fa fa-twitter"></i></a></li>
-              <li title="Linkedin"><a href={social.linkedin}><i className="fa fa-linkedin"></i></a></li>
               <li title="Github"><a href={social.github}><i className="fa fa-github"></i></a></li>
               <li title="Twitch"><a href={social.twitch}><i className="fa fa-twitch"></i></a></li>
-              <li title="Mixer"><a href={social.mixer}><img alt="mixer" src="https://raw.githubusercontent.com/mixer/branding-kit/master/png/MixerMerge_Dark.png" style={{ width: '10px' }}></img></a></li>
             </ul>
           </div>
           <div className="profile-img"></div>
