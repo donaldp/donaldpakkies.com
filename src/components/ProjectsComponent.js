@@ -57,7 +57,7 @@ const ProjectsComponent = (props) => {
 
             <div className="expertise-item">
               <h3>Audiostreamify</h3>
-              <h4>A music streaming service writting in C Modulus, JavaScript & PHP</h4>
+              <h4>A music streaming service written in C Modulus, JavaScript & PHP</h4>
 
               <small>2017</small>
             </div>
