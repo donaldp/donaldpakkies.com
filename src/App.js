@@ -5,6 +5,7 @@ import MainComponent from './components/MainComponent.js';
 import InterestsComponent from './components/InterestsComponent.js';
 import IntroductionComponent from './components/IntroductionComponent.js';
 import WorkComponent from './components/WorkComponent.js';
+import ProjectsComponent from './components/ProjectsComponent.js'
 import TechStackComponent from './components/TechStackComponent';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <MainComponent>
         <IntroductionComponent />
         <WorkComponent />
+        <ProjectsComponent />
         <TechStackComponent />
         <InterestsComponent />
       </MainComponent>
