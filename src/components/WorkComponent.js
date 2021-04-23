@@ -85,7 +85,7 @@ const WorkComponent = (props) => {
               <div className="row" style={{ paddingLeft: '20px' }}>
                 <div className="col-md-12">
                    <div className="expertise-item">
-                    <strong>Financial Bunny Gym Chatbot</strong> @ SmartMacmane
+                    <strong>Financial Fitness Bunnies Chatbot</strong> @ SmartMacmane
 
                     <br/>
                     Full Stack Developer - Twilio Integration, Chat Flow & Backend / Dashboard Development, DevOps
