@@ -52,7 +52,7 @@ const ProjectsComponent = (props) => {
               <h3>C Modulus</h3>
               <h4>A Programming Language that compiles to JavaScript</h4>
 
-              <small>2016</small>
+              <small>2017</small>
             </div>
 
             <div className="expertise-item">
