@@ -33,6 +33,15 @@ const ProjectsComponent = (props) => {
             </div>
 
             <div className="expertise-item">
+              <h3><a href="https://github.com/harnessflex/types">Flex Types</a></h3>
+              <h4>Static type checking for Imba</h4>
+
+              <p>Enabled native static type checking with run-time errors for Imba</p>
+
+              <small>April 2021</small>
+            </div>
+
+            <div className="expertise-item">
               <h3><a href="https://github.com/modulusphp">Modulus</a></h3>
               <h4>MVC Framework for PHP</h4>
 
