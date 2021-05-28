@@ -3,8 +3,8 @@ import './App.css';
 import { Fragment } from 'react';
 import MainComponent from './components/MainComponent.js';
 import InterestsComponent from './components/InterestsComponent.js';
-import IntroductionComponent from './components/IntroductionComponent.js';
-import WorkComponent from './components/WorkComponent.js';
+// import IntroductionComponent from './components/IntroductionComponent.js';
+// import WorkComponent from './components/WorkComponent.js';
 import ProjectsComponent from './components/ProjectsComponent.js'
 import TechStackComponent from './components/TechStackComponent';
 
