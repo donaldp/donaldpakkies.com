@@ -18,8 +18,8 @@ function App() {
       </div>
 
       <MainComponent>
-        <IntroductionComponent />
-        <WorkComponent />
+        {/* <IntroductionComponent />
+        <WorkComponent /> */}
         <ProjectsComponent />
         <TechStackComponent />
         <InterestsComponent />
