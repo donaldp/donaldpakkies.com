@@ -36,7 +36,7 @@ const ProjectsComponent = (props) => {
               <h3><a href="https://github.com/harnessflex/types">Flex Types</a></h3>
               <h4>Static type checking for Imba</h4>
 
-              <p>Enabled native static type checking with run-time errors for Imba</p>
+              <p>Enables native static type checking with run-time errors for Imba</p>
 
               <small>April 2021</small>
             </div>
