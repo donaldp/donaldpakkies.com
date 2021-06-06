@@ -17,13 +17,13 @@ const InterestsComponent = (props) => {
             <div className="content-item">
               <h3>Shows/Series</h3>
 
-              <p>WandaVision, Ozark, Lucifer, Grimm, Game of Thrones, Dexter, The Walking Dead, Limitless, Shameless, Brooklyn Nine-Nine, Mr Iglesias, StarGirl, Space Force, Gotham, The Order, Warrior Nun.</p>
+              <p>WandaVision, Ozark, Lucifer, Grimm, Game of Thrones, Dexter, The Walking Dead, Limitless, Shameless, Brooklyn Nine-Nine, Mr Iglesias, The Order, The Chi.</p>
             </div>
 
             <div className="content-item">
               <h3>Games</h3>
 
-              <p>Star Wars Jedi: Fallen Order, Fortnite, FIFA, Grand Theft Auto Online, Red Dead Redemption, Forza, Assassin's Creed, Far Cry, Call of Duty: Modern Warfare.</p>
+              <p>Star Wars Jedi: Fallen Order, Knockout City, Fortnite, FIFA, Grand Theft Auto Online, Red Dead Redemption, Forza, Assassin's Creed, Far Cry, Call of Duty.</p>
             </div>
 
             <div className="content-item">
