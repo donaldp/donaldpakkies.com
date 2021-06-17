@@ -4,7 +4,7 @@ import { Fragment } from 'react';
 import MainComponent from './components/MainComponent.js';
 import InterestsComponent from './components/InterestsComponent.js';
 // import IntroductionComponent from './components/IntroductionComponent.js';
-// import WorkComponent from './components/WorkComponent.js';
+import WorkComponent from './components/WorkComponent.js';
 import ProjectsComponent from './components/ProjectsComponent.js'
 import TechStackComponent from './components/TechStackComponent';
 
@@ -18,8 +18,8 @@ function App() {
       </div>
 
       <MainComponent>
-        {/* <IntroductionComponent />
-        <WorkComponent /> */}
+        {/* <IntroductionComponent /> */}
+        <WorkComponent />
         <ProjectsComponent />
         <TechStackComponent />
         <InterestsComponent />
